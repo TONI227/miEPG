@@ -1,28 +1,28 @@
-La 1 HD,La 1 HD
-La 2,La 2
-Antena 3 HD,Antena 3 HD
-Cuatro HD,Cuatro HD
-Telecinco HD,Telecinco HD
-La Sexta HD,La Sexta HD
-À Punt,À Punt
-La Ocho Mediterráneo,La 8 Mediterráneo HD
-Canal Sur Andalucía,Canal Sur Andalucía
-Factoría de Ficción,Factoría de Ficción
-Atreseries,Atreseries HD
-Paramount Network,Paramount Network
-Neox,Neox HD
-BOM Cine,BOM Cine
-Mega,Mega HD
-Nova,Nova HD
-Divinity,Divinity
-Energy,Energy
-DKISS,DKISS
-DMAX,DMAX
-Be Mad,Be Mad HD
-Ten,TEN
-Squirrel TV,Squirrel TV
-Boing,Boing
-Clan,Clan HD
-TRECE,TRECE
-Teledeporte,Teledeporte HD
-24 Horas,24 Horas HD
+La 1 HD,La 1 HD,1
+La 2,La 2,2
+Antena 3 HD,Antena 3 HD,3
+Cuatro HD,Cuatro HD,4
+Telecinco HD,Telecinco HD,5
+La Sexta HD,La Sexta HD,6
+À Punt,À Punt,7
+La Ocho Mediterráneo,La 8 Mediterráneo HD,8
+Canal Sur Andalucía,Canal Sur Andalucía,9
+Factoría de Ficción,Factoría de Ficción,10
+Atreseries,Atreseries HD,11
+Paramount Network,Paramount Network,12
+Neox,Neox HD,13
+BOM Cine,BOM Cine,14
+Mega,Mega HD,15
+Nova,Nova HD,16
+Divinity,Divinity,17
+Energy,Energy,18
+DKISS,DKISS,19
+DMAX,DMAX,20
+Be Mad,Be Mad HD,21
+Ten,TEN,22
+Squirrel TV,Squirrel TV,23
+Boing,Boing,24
+Clan,Clan HD,25
+TRECE,TRECE,26
+Teledeporte,Teledeporte HD,27
+24 Horas,24 Horas HD,28
