@@ -7,7 +7,7 @@ La Sexta HD,La Sexta HD
 À Punt,À Punt
 La Ocho Mediterráneo,La 8 Mediterráneo HD
 Canal Sur Andalucía,Canal Sur Andalucía
-Factoría de Ficción,FDF
+Factoría de Ficción,Factoría de Ficción
 Atreseries,Atreseries HD
 Paramount Network,Paramount Network
 Neox,Neox HD
@@ -19,7 +19,7 @@ Energy,Energy
 DKISS,DKISS
 DMAX,DMAX
 Be Mad,Be Mad HD
-TEN,TEN
+Ten,TEN
 Squirrel TV,Squirrel TV
 Boing,Boing
 Clan,Clan HD
