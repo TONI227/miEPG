@@ -1,5 +1,31 @@
-La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
-La 2,La 2 Super Full HD 8k
+La 1 HD,La 1 HD
+La 2,La 2
+Antena 3 HD,Antena 3 HD
+Cuatro HD,Cuatro HD
+Telecinco HD,Telecinco HD
+La Sexta HD,La Sexta HD
+À Punt,À Punt
+La Ocho Mediterráneo,La 8 Mediterráneo HD
+Canal Sur Andalucía,Canal Sur Andalucía
+Factoría de Ficción,FDF
+Atreseries,Atreseries HD
+Paramount Network,Paramount Network
+Neox,Neox HD
+BOM Cine,BOM Cine
+Mega,Mega HD
+Nova,Nova HD
+Divinity,Divinity
+Energy,Energy
+DKISS,DKISS
+DMAX,DMAX
+Be Mad,Be Mad HD
+TEN,TEN
+Squirrel TV,Squirrel TV
+Boing,Boing
+Clan,Clan HD
+TRECE,TRECE
+Teledeporte,Teledeporte HD
+24 Horas,24 Horas HD
 A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
 Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
 AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
